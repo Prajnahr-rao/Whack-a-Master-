@@ -1,4 +1,6 @@
 # 🎯 Whack-a-Mole Game
+ # Live Demo  
+ https://prajnahr-rao.github.io/Whack-a-Master-/
 
 ## 🕹️ Overview
 Whack-a-Mole is a fun, interactive game where players must click on the appearing moles before they disappear. This project is a simple JavaScript-based game designed to enhance web development skills using HTML, CSS, and JavaScript.
